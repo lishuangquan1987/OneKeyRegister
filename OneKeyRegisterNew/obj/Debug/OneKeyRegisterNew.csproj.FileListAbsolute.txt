@@ -1,0 +1,10 @@
+E:\Project2019\OneKeyRegisterNew\OneKeyRegisterNew\bin\Debug\OneKeyRegisterNew.exe
+E:\Project2019\OneKeyRegisterNew\OneKeyRegisterNew\bin\Debug\OneKeyRegisterNew.pdb
+E:\Project2019\OneKeyRegisterNew\OneKeyRegisterNew\obj\Debug\OneKeyRegisterNew.frmMain.resources
+E:\Project2019\OneKeyRegisterNew\OneKeyRegisterNew\obj\Debug\OneKeyRegisterNew.Properties.Resources.resources
+E:\Project2019\OneKeyRegisterNew\OneKeyRegisterNew\obj\Debug\OneKeyRegisterNew.csproj.GenerateResource.cache
+E:\Project2019\OneKeyRegisterNew\OneKeyRegisterNew\obj\Debug\OneKeyRegisterNew.csproj.CoreCompileInputs.cache
+E:\Project2019\OneKeyRegisterNew\OneKeyRegisterNew\obj\Debug\OneKeyRegisterNew.exe
+E:\Project2019\OneKeyRegisterNew\OneKeyRegisterNew\obj\Debug\OneKeyRegisterNew.pdb
+E:\Project2019\OneKeyRegisterNew\OneKeyRegisterNew\obj\Debug\OneKeyRegisterNew.RegisterForm.resources
+E:\Project2019\OneKeyRegisterNew\OneKeyRegisterNew\obj\Debug\OneKeyRegisterNew.csprojAssemblyReference.cache
