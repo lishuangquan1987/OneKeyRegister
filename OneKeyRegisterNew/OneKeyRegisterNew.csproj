@@ -50,6 +50,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CSharp\CSharpRegisterNew.cs" />
+    <Compile Include="CSharp\CSharpUnregisterNew.cs" />
     <Compile Include="Extension.cs" />
     <Compile Include="CSharp\CSharpRegister.cs" />
     <Compile Include="CSharp\CSharpUnregister.cs" />

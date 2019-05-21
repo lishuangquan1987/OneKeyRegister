@@ -59,7 +59,7 @@ namespace OneKeyRegisterNew
                 MessageBox.Show("CSInterface.dll is not found in current directory!");
                 return;
             }
-            RegisterForm frm = new RegisterForm(new string[] { path},new CSharp.CSharpRegister());
+            RegisterForm frm = new RegisterForm(new string[] { path},new CSharp.CSharpRegisterNew());
             frm.Text = "register csharp interface";
             frm.ShowDialog();
         }
@@ -72,7 +72,7 @@ namespace OneKeyRegisterNew
                 MessageBox.Show("CSInterface.dll is not found in current directory!");
                 return;
             }
-            RegisterForm frm = new RegisterForm(new string[] { path }, new CSharp.CSharpUnregister());
+            RegisterForm frm = new RegisterForm(new string[] { path }, new CSharp.CSharpUnregisterNew());
             frm.Text = "unregister csharp interface";
             frm.ShowDialog();
         }
