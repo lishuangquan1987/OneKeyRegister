@@ -21,7 +21,7 @@ namespace OneKeyRegisterNew.CSharp
             process.StartInfo = new ProcessStartInfo()
             {
                 FileName = regAsmPath,
-                Arguments = string.Format(" {0} {1}", path, "/unregister"),
+                Arguments = string.Format(" \"{0}\" {1}", path, "/unregister"),
                 RedirectStandardOutput = true,
                 RedirectStandardInput = true,
                 UseShellExecute = false,
@@ -33,7 +33,7 @@ namespace OneKeyRegisterNew.CSharp
             string result = process.StandardOutput.ReadToEnd();
             string errResult = process.StandardError.ReadToEnd();
             process.Close();
-            if (result.Contains("成功注销了类型"))
+            if (string.IsNullOrEmpty(errResult))
             {
                 return new ExecuteResult() { IsSuccess = true };
             }
