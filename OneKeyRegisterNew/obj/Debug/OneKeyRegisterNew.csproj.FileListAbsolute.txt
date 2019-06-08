@@ -7,4 +7,3 @@ E:\Project2019\OneKeyRegisterNew\OneKeyRegisterNew\obj\Debug\OneKeyRegisterNew.c
 E:\Project2019\OneKeyRegisterNew\OneKeyRegisterNew\obj\Debug\OneKeyRegisterNew.exe
 E:\Project2019\OneKeyRegisterNew\OneKeyRegisterNew\obj\Debug\OneKeyRegisterNew.pdb
 E:\Project2019\OneKeyRegisterNew\OneKeyRegisterNew\obj\Debug\OneKeyRegisterNew.RegisterForm.resources
-E:\Project2019\OneKeyRegisterNew\OneKeyRegisterNew\obj\Debug\OneKeyRegisterNew.csprojAssemblyReference.cache

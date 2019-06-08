@@ -17,13 +17,17 @@ namespace OneKeyRegisterNew.VB6
             }
             string msg = "";
             object o = DynamicLoadDll.DynamicRegister(path, functionName, out msg);
-            if (o != null && (int)o >= 0)
+            if (o == null)
+            {
+                return new ExecuteResult() { IsSuccess = false, ErrorMsg = msg };
+            }
+            else if ((int)o >= 0)
             {
                 return new ExecuteResult() { IsSuccess = true };
             }
             else
             {
-                return new ExecuteResult() { IsSuccess = false, ErrorMsg = msg };
+                return new ExecuteResult() { IsSuccess = false, ErrorMsg = "path-" + path + " return value:" + o };
             }
         }
     }
