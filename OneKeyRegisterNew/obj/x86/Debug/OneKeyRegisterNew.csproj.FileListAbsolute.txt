@@ -9,3 +9,4 @@ E:\Project2019\OneKeyRegisterNew\OneKeyRegisterNew\obj\x86\Debug\OneKeyRegisterN
 E:\Project2019\OneKeyRegisterNew\OneKeyRegisterNew\obj\x86\Debug\OneKeyRegisterNew.csproj.CoreCompileInputs.cache
 E:\Project2019\OneKeyRegisterNew\OneKeyRegisterNew\obj\x86\Debug\OneKeyRegisterNew.exe
 E:\Project2019\OneKeyRegisterNew\OneKeyRegisterNew\obj\x86\Debug\OneKeyRegisterNew.pdb
+E:\Project2019\OneKeyRegisterNew\OneKeyRegisterNew\obj\x86\Debug\OneKeyRegisterNew.csprojAssemblyReference.cache
